@@ -1,34 +1,35 @@
+> [!CAUTION]
+> ### ⚠️ UNMAINTAINED PROJECT
+> This repository has not received updates or edits for **over two years**.
+> * **No Support:** Issues, pull requests, and **Discord support** are no longer available.
+> * **Security Risk:** Dependencies are **outdated** and may contain vulnerabilities.
+> * **Status:** Deprecated and archived.
+>
+> ![Maintenance](https://img.shields.io/badge/Maintenance-No--Longer--Maintained-red.svg)
+
 # base-gm-samp
 
-It is simple and straightforward, a base game mode to start a project with its own code.
+A simple and straightforward base game mode for SA-MP, designed as a clean starting point for projects with custom code. 
 
-In this game mode base you will only find the systems that have been deemed "necessary", which are listed below:
+> [!IMPORTANT]
+> **Development Status:** This project is no longer under development. While it remains open source for the community to use as a reference, it does not reflect modern security standards or the latest dependency versions.
 
-1. Player registration and login (MySQL)
-2. Saving and loading player data (MySQL)
+---
 
+## Features
+This base includes only the core essential systems:
+* **Authentication:** Player registration and login system via MySQL.
+* **Data Management:** Efficient saving and loading of player data via MySQL.
 
-IMPORTANT!
+## Questions and Support
+**Notice:** The Discord server and active support channels have been decommissioned. 
+This repository is provided **"as-is"**. No further updates, voting, or community interaction will take place regarding this specific project.
 
-This game mode is still under development, check the updates made and read their changes.
+## Credits and Thanks
+Special thanks to the authors of the following includes that made this project possible:
+* [SA-MP-MySQL](https://github.com/pBlueG/SA-MP-MySQL)
+* [Pawn.CMD](https://github.com/katursis/Pawn.CMD)
+* [YSI-Includes](https://github.com/pawn-lang/YSI-Includes)
 
-An important clarification is also made, this game mode is open source so it is for free use by the community.
-
-
-# QUESTIONS AND SUPPORT.
-
-You will be able to see the updates, as well as participate in voting for new things to implement in the project.
-
-You will be able to interact with our community, through our discord server.
-
-https://discord.gg/W3FeXHncpP
-
-
-
-# Thank you.
-
-We would also like to thank the authors of the following includes used in this game mode.
-
-- SA-MP-MySQL
-- Pawn.CMD
-- YSI-Includes
+---
+*This game mode is Open Source and free to use for the community.*
